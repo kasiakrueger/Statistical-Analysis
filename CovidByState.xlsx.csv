@@ -1,0 +1,52 @@
+State,Population,Region,Governor's Party,Upper State Chamber,Lower State Chamber,2016 R/D,State Land Area (sq mi),COVID Cases,COVID Deaths
+Alabama - AL,"4,903,185",South,Republican,Republican,Republican,Republican,50645,"174,528","2,805"
+Alaska - AK,"731,545",West,Republican,Republican,Republican,Republican,570640,"12,349",63
+Arizona - AZ,"7,278,717",West,Republican,Republican,Republican,Republican,113594,"232,939","5,837"
+Arkansas - AR,"3,017,825",South,Republican,Republican,Republican,Republican,52035,"100,441","1,728"
+California - CA,"39,512,223",West,Democrat,Democrat,Democrat,Democrat,155799,"887,093","17,067"
+Colorado - CO,"5,758,736",West,Democrat,Democrat,Democrat,Democrat,103641,"87,966","2,212"
+Connecticut - CT,"3,565,287",Northeast,Democrat,Democrat,Democrat,Democrat,4842,"64,455","4,559"
+Delaware - DE,"973,764",South,Democrat,Democrat,Democrat,Democrat,1948,"23,325",668
+Florida - FL,"21,477,737",South,Republican,Republican,Republican,Republican,53624,"760,381","16,104"
+Georgia - GA,"10,617,423",South,Republican,Republican,Republican,Republican,57513,"328,150","7,494"
+Hawaii - HI,"1,415,872",West,Democrat,Democrat,Democrat,Democrat,6422,"14,302",188
+Idaho - ID,"1,787,065",West,Republican,Republican,Republican,Republican,82643,"55,153",541
+Illinois - IL,"12,671,821",Midwest,Democrat,Democrat,Democrat,Democrat,55518,"356,151","9,562"
+Indiana - IN,"6,949,503",Midwest,Republican,Republican,Republican,Republican,35826,"153,088","4,008"
+Iowa - IA,"3,155,070",Midwest,Republican,Republican,Republican,Republican,55857,"109,210","1,576"
+Kansas - KS,"2,913,314",Midwest,Democrat,Republican,Republican,Republican,81728,"74,883",902
+Kentucky - KY,"4,467,673",South,Democrat,Republican,Republican,Republican,39468,"91,731","1,403"
+Louisiana - LA,"4,648,794",South,Democrat,Republican,Republican,Republican,43203,"179,769","5,772"
+Maine - ME,"1,344,212",Northeast,Democrat,Democrat,Democrat,Democrat,30842,"5,989",146
+Maryland - MD,"6,137,428",South,Republican,Democrat,Democrat,Democrat,9707,"137,229","4,050"
+Massachusetts - MA,"6,949,503",Northeast,Republican,Democrat,Democrat,Democrat,7800,"145,464","9,758"
+Michigan - MI,"9,986,857",Midwest,Democrat,Republican,Republican,Republican,56538,"165,949","7,386"
+Minnesota - MN,"5,639,632",Midwest,Democrat,Republican,Democrat,Democrat,79626,"125,584","2,299"
+Mississippi - MS,"2,976,149",South,Republican,Republican,Republican,Republican,46923,"111,322","3,202"
+Missouri - MO,"6,137,428",Midwest,Republican,Republican,Republican,Republican,68741,"164,891","2,668"
+Montana - MT,"1,068,778",West,Democrat,Republican,Republican,Republican,148545,"24,201",252
+Nebraska - NE,"1,934,408",Midwest,Republican,Republican,Republican,Republican,76824,"59,409",575
+Nevada - NV,"3,080,156",West,Democrat,Democrat,Democrat,Democrat,109781,"91,679","1,728"
+New Hampshire - NH,"1,359,711",Northeast,Republican,Democrat,Democrat,Democrat,8952,"9,828",468
+New Jersey - NJ,"8,882,190",Northeast,Democrat,Democrat,Democrat,Democrat,7354,"223,982","16,227"
+New Mexico - NM,"2,096,829",West,Democrat,Democrat,Democrat,Democrat,121298,"37,896",942
+New York - NY,"19,453,561",Northeast,Democrat,Republican,Republican,Democrat,47126,"491,216","32,998"
+North Carolina - NC,"10,488,084",South,Democrat,Republican,Republican,Republican,48617,"249,158","4,018"
+North Dakota - ND,"762,062",Midwest,Republican,Republican,Republican,Republican,69000,"33,671",417
+Ohio - OH,"11,689,100",Midwest,Republican,Republican,Republican,Republican,40860,"185,639","5,083"
+Oklahoma - OK,"3,956,971",South,Republican,Republican,Republican,Republican,68594,"109,548","1,191"
+Oregon - OR,"4,217,737",West,Democrat,Democrat,Democrat,Democrat,95988,"40,149",636
+Pennsylvania - PA,"12,801,989",Northeast,Democrat,Republican,Republican,Republican,44742,"189,988","8,591"
+Rhode Island - RI,"1,059,361",Northeast,Democrat,Democrat,Democrat,Democrat,1033,"28,649","1,164"
+South Carolina - SC,"5,148,714",South,Republican,Republican,Republican,Republican,30060,"165,493","3,696"
+South Dakota - SD,"884,659",Midwest,Republican,Republican,Republican,Republican,75811,"34,457",330
+Tennessee - TN,"6,949,503",South,Republican,Republican,Republican,Republican,41234,"229,794","2,924"
+Texas - TX,"28,995,881",South,Republican,Republican,Republican,Republican,261231,"879,419","17,644"
+Utah - UT,"3,205,958",West,Republican,Republican,Republican,Republican,82169,"96,643",552
+Vermont - VT,"623,989",Northeast,Republican,Democrat,Democrat,Democrat,9216,"1,956",58
+Virginia - VA,"8,535,519",South,Democrat,Democrat,Democrat,Democrat,39490,"167,754","3,485"
+Washington - WA,"7,614,893",South,Democrat,Democrat,Democrat,Democrat,66455,"103,845","2,380"
+West Virginia - WV,"1,792,147",South,Republican,Republican,Republican,Republican,24038,"20,519",408
+Wisconsin - WI,"5,822,434",Midwest,Democrat,Republican,Republican,Republican,54157,"187,898","1,660"
+Wyoming - WY,"578,759",West,Republican,Republican,Republican,Republican,97093,"9,526",61
+District of Columbia - DC,"705,749",South,Democrat,Republican,Democrat,Democrat,61,"16,445",642
